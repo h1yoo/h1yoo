@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me:
 
-<a href="yhw215@gmail.com" target="_blanck"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+[yhw215@gmail.com] ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
 
 # 💬 about me
