@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp;&nbsp; yhw215@gmail.com
 
 
-# 💬 about me
-- 🌱 I’m currently learning about front-end
+</br>
+</br>
+</br>
 
 
 # 🛠  skills
@@ -63,5 +64,4 @@ Here are some ideas to get you started:
   
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh1yoo&count_bg=%238D99AE&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)
 
-  
 </div>
