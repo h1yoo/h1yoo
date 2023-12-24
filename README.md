@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp;&nbsp; yhw215@gmail.com
+<!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp;&nbsp; yhw215@gmail.com 
+
+<a href="연결하고싶은링크"><img src="https://img.shields.io/badge/뱃지이름-뱃지색상?style=flat-square&logo=로고이미지이름&logoColor=white&link=연결하고싶은링크"/></a> -->
+
+<a href="mailto:yhw215@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=round-square&logo=Gmail&logoColor=white&link=mailto:yhw215@gmail.com" width="80"/></a>
 
 
 </br>
